@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pul tanuvchi</string>
+
+    <!-- Ekranning eng yuqorisida doim turadigan ogohlantirish -->
+    <string name="disclaimer">Bu ilova pulning miqdorini aniqlashga xizmat qiladi. Pulning haqiqiy yoki haqiqiy emasligini aniqlash maʼsuliyati oʻzingizda qoladi.</string>
+
+    <string name="starting">Kamera ishga tushmoqda…</string>
+    <string name="ready">Kamera tayyor. Pulni kameraga 15–20 santimetr masofadan tuting.</string>
+    <string name="paused">Toʻxtatildi. Davom ettirish tugmasini bosing.</string>
+    <string name="resumed">Davom etmoqda. Pulni kameraga tuting.</string>
+    <string name="probably">Ehtimol,</string>
+    <string name="nothing_to_repeat">Hozircha natija yoʻq.</string>
+
+    <string name="hint_none">Pul koʻrinmayapti. Kamerani pulga 15–20 santimetr yaqinlashtiring.</string>
+    <string name="hint_found">Pul topildi, lekin qiymati aniq oʻqilmadi. Pulni tekis ushlab, sekin aylantiring.</string>
+    <string name="hint_several">Bir nechta pul koʻrinmoqda. Pullarni bittadan koʻrsating.</string>
+    <string name="hint_dark">Qorongʻi. Yoritishni yaxshilang yoki chiroqni yoqing.</string>
+    <string name="torch_auto">Qorongʻi, shuning uchun chiroq yoqildi.</string>
+    <string name="no_flash">Bu telefonda chiroq yoʻq.</string>
+
+    <string name="camera_denied">Kameraga ruxsat berilmadi. Ilova ruxsatsiz ishlay olmaydi. Qayta urinish uchun Takrorlash tugmasini bosing.</string>
+    <string name="camera_error">Kamerani ishga tushirib boʻlmadi.</string>
+
+    <string name="btn_repeat">Takrorlash</string>
+    <string name="btn_torch_on">Chiroqni yoqish</string>
+    <string name="btn_torch_off">Chiroqni oʻchirish</string>
+    <string name="btn_pause">Toʻxtatish</string>
+    <string name="btn_resume">Davom ettirish</string>
+    <string name="btn_menu">Menyu</string>
+    <string name="close">Yopish</string>
+
+    <string name="menu_title">Menyu</string>
+    <string name="menu_gallery">Galereyadan rasm tanlash</string>
+    <string name="menu_voice_on">Ilova ovozini yoqish</string>
+    <string name="menu_voice_off">Ilova ovozini oʻchirish</string>
+    <string name="menu_alphabet">Alifbo: hozirgi / yangi</string>
+    <string name="menu_about">Dastur haqida</string>
+
+    <string name="voice_on_msg">Ilova ovozi yoqildi.</string>
+    <string name="voice_off_msg">Ilova ovozi oʻchirildi.</string>
+    <string name="alphabet_new_on">Yangi alifbo yoqildi. Matnlar endi ö, ğ, ş, ç harflari bilan yoziladi.</string>
+    <string name="alphabet_old_on">Hozirgi alifbo yoqildi. Matnlar endi oʻ, gʻ, sh, ch bilan yoziladi.</string>
+
+    <string name="gallery_working">Rasm tekshirilmoqda…</string>
+    <string name="gallery_none">Rasmda pul qiymati aniqlanmadi.</string>
+    <string name="gallery_error">Rasmni ochib boʻlmadi.</string>
+
+    <string name="menu_repeat_on">Pulni takrorlab aytishni yoqish</string>
+    <string name="menu_repeat_off">Pulni takrorlab aytishni oʻchirish</string>
+    <string name="menu_unit_on">Valyuta birligini (soʻm) aytishni yoqish</string>
+    <string name="menu_unit_off">Valyuta birligini (soʻm) aytishni oʻchirish</string>
+    <string name="menu_ai_key">Google kaliti (sunʼiy intellekt uchun)</string>
+    <string name="menu_ai_on">Sunʼiy intellekt yordamini yoqish</string>
+    <string name="menu_ai_off">Sunʼiy intellekt yordamini oʻchirish</string>
+
+    <string name="repeat_on_msg">Takrorlab aytish yoqildi. Pul koʻrinib turguncha qiymati qayta-qayta aytiladi.</string>
+    <string name="repeat_off_msg">Takrorlab aytish oʻchirildi. Qiymat bir marta aytiladi.</string>
+    <string name="unit_on_msg">Endi qiymat soʻm bilan aytiladi, masalan: ming soʻm.</string>
+    <string name="unit_off_msg">Endi soʻmda faqat qiymat aytiladi, masalan: ming. Dollar, manat va yevroda valyuta nomi doim aytiladi.</string>
+    <string name="ai_on_msg">Sunʼiy intellekt yordami yoqildi. Ilova pulni oʻzi taniy olmasa, kadr internet orqali Google xizmatiga yuboriladi.</string>
+    <string name="ai_off_msg">Sunʼiy intellekt yordami oʻchirildi. Rasmlar internetga yuborilmaydi.</string>
+
+    <string name="ai_dialog_title">Google kaliti</string>
+    <string name="ai_dialog_help">Ilova pulni oʻzi taniy olmasa, rasmni internet orqali Google Gemini sunʼiy intellektiga yuboradi va natijani aytib beradi. Buning uchun oʻzingizning Google AI Studio kalitingiz kerak: aistudio.google.com saytiga Google hisobingiz bilan kirib, Get API key boʻlimidan kalit yarating, nusxalang va pastdagi maydonga joylashtiring. Kalit faqat shu telefonda saqlanadi. Rasm Google serveriga yuboriladi. Kalitni oʻchirish uchun maydonni boʻsh qoldirib, Saqlash tugmasini bosing.</string>
+    <string name="ai_status_none">Hozircha kalit kiritilmagan.</string>
+    <string name="ai_status_saved">Kalit saqlangan.</string>
+    <string name="ai_key_hint">Google kalitini shu yerga kiriting</string>
+    <string name="ai_save">Saqlash</string>
+    <string name="ai_paste">Joylashtirish</string>
+    <string name="ai_key_invalid">Kalit notoʻgʻri koʻrinadi. Toʻliq nusxalab, qayta kiriting.</string>
+    <string name="ai_clipboard_empty">Nusxa olingan matn yoʻq yoki u kalitga oʻxshamaydi.</string>
+    <string name="ai_saved_checking">Kalit saqlandi. Tekshirilmoqda…</string>
+    <string name="ai_key_ok">Kalit ishlayapti. Sunʼiy intellekt yordami yoqildi.</string>
+    <string name="ai_removed">Kalit oʻchirildi. Sunʼiy intellekt yordami oʻchirildi.</string>
+
+    <string name="ai_checking">Internet orqali tekshirilmoqda…</string>
+    <string name="ai_none">Sunʼiy intellekt ham pulni aniqlay olmadi. Pulni tekis ushlab, yaqinroq koʻrsating.</string>
+    <string name="ai_err_net">Internet yoʻq, sunʼiy intellekt yordami ishlamadi.</string>
+    <string name="ai_err_key">Google kaliti qabul qilinmadi. Menyudan kalitni tekshirib, qayta kiriting. Sunʼiy intellekt yordami oʻchirildi.</string>
+    <string name="ai_err_quota">Google soʻrovlar limiti tugadi. Birozdan keyin qayta uriniladi.</string>
+    <string name="ai_err_other">Sunʼiy intellekt yordami ishlamadi.</string>
+    <string name="ai_err_http">Sunʼiy intellekt yordami ishlamadi (xato kodi %1$d).</string>
+
+    <string name="about_text">Diqqat: bu ilova pulning miqdorini aniqlashga xizmat qiladi. Pulning haqiqiy yoki haqiqiy emasligini aniqlash maʼsuliyati oʻzingizda qoladi. Ilova pulning haqiqiyligini tekshirmaydi.\n\nPul tanuvchi kamera orqali banknotaning qiymatini oʻqib, ekran oʻquvchi oʻqiy oladigan matn sifatida chiqaradi. Taniladigan pullar: Oʻzbekiston soʻmi, Turkmaniston manati, AQSh dollari va yevro.\n\nHozirgi banknotalardagi yozuvlar ham, yangi alifbodagi (ö, ğ, ş, ç) yozuvlar ham taniladi.\n\nSoʻmdan boshqa pulda valyuta nomi doim aytiladi, masalan: yuz dollar. Dollar, manat va yevro faqat valyuta yozuvi (masalan, bank nomi) ham koʻringandagina ishonch bilan aytiladi; aks holda natija “Ehtimol, …” deb aytiladi.\n\nPul koʻrinib turguncha qiymati takrorlab aytiladi. Buni, shuningdek soʻm soʻzini aytishni Menyudan yoqish yoki oʻchirish mumkin.\n\nIxtiyoriy: Menyudagi Google kaliti boʻlimiga oʻzingizning Google AI Studio kalitingizni kiritsangiz, ilova pulni oʻzi taniy olmaganda kadrni internet orqali Google sunʼiy intellektiga yuboradi. Kalit kiritilmaguncha internet umuman ishlatilmaydi.\n\nMaslahat: pulni tekis ushlang, yaxshi yoritilgan joyda kameraga 15–20 santimetr masofadan tuting, qiymat yozilgan burchakni va bank nomini koʻrsating.</string>
+</resources>
